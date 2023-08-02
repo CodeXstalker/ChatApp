@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+
+    <style name="AppTheme.ActionBar" parent="Widget.AppCompat.Light.ActionBar">
+        <!-- Customize the color of the menu icon (overflow button) -->
+        <item name="android:textColorSecondary">@android:color/white</item>
+    </style>
+
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme attributes here -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+
+</resources>
